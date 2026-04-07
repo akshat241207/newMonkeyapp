@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newMonkeyapp/static/css/main.dc4d6ff2.css",
+    "main.js": "/newMonkeyapp/static/js/main.53a09426.js",
+    "static/js/453.49c13d3b.chunk.js": "/newMonkeyapp/static/js/453.49c13d3b.chunk.js",
+    "index.html": "/newMonkeyapp/index.html",
+    "main.dc4d6ff2.css.map": "/newMonkeyapp/static/css/main.dc4d6ff2.css.map",
+    "main.53a09426.js.map": "/newMonkeyapp/static/js/main.53a09426.js.map",
+    "453.49c13d3b.chunk.js.map": "/newMonkeyapp/static/js/453.49c13d3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.53a09426.js"
+  ]
+}
